@@ -137,10 +137,6 @@ html {
   font-weight: 500;
 }
 
-/* .hero-icon img {
-  width: 60px;
-} */
-
 .hero-icon::before {
   content: '';
   position: absolute;
