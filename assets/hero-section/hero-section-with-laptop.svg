@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1451" height="284.125" viewBox="0 0 1451 284.125">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #364655;
+      }
+
+      .cls-10, .cls-11, .cls-2, .cls-3, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fafafa;
+      }
+
+      .cls-10, .cls-11, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #364655;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #f9f9f9;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #fbfbfb;
+      }
+
+      .cls-10, .cls-11, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill-opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" y="257.406" width="1451" height="4.439" rx="1.869" ry="1.869"/>
+  <path id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M1230.24,975.156v-5.69a32.016,32.016,0,0,0-6.94-15.343s-9.18-9.748-8.93-20.29c0,0-.05-25.04,27.78-26.97,0,0,25.8-1.4,28.77,27.467a30.1,30.1,0,0,1-7.44,18.31s-6.89,7.622-7.69,17.073l-0.25,5.443h-25.3Zm2.73,2.228h19.1v3.464h-19.1v-3.464Zm0,4.454h19.1V985.3h-19.1v-3.464Zm2.73,4.7h13.89v3.217H1235.7v-3.217Zm1.74,4.455h10.41v3.216h-10.41v-3.216Zm-0.75-18.559h-3.47s0.2-8.957-4.71-16.083a63.7,63.7,0,0,0-5.71-7.919s-5.41-7.589-4.96-15.1c0,0,2.05-22.083,25.05-23.259,0,0,20.9-1.236,25.3,23.259,0,0,0,9.1-5.2,15.343,0,0-10.73,11.258-10.92,21.28v2.474h-2.98V950.661l6.21-12.868h-25.31l6.45,12.868Zm3.23,0h5.95V950.412l4.71-9.65h-15.62l4.96,9.9v21.774Zm19.34-87.494a0.873,0.873,0,0,1,.55,1.091l-5.88,18.134a0.854,0.854,0,0,1-1.08.559,0.875,0.875,0,0,1-.55-1.093l5.88-18.135A0.853,0.853,0,0,1,1259.26,884.941Zm15.55,4.561a0.87,0.87,0,0,1,.28,1.19l-9.87,16.277a0.855,0.855,0,0,1-1.18.287,0.868,0.868,0,0,1-.28-1.189l9.87-16.278A0.853,0.853,0,0,1,1274.81,889.5Zm11.14,11.67a0.871,0.871,0,0,1-.03,1.224l-13.71,13.144a0.861,0.861,0,0,1-1.22-.031,0.873,0.873,0,0,1,.04-1.225l13.71-13.142A0.846,0.846,0,0,1,1285.95,901.172Zm8.37,13.091a0.875,0.875,0,0,1-.27,1.195l-16.02,10.132a0.849,0.849,0,0,1-1.18-.273,0.873,0.873,0,0,1,.27-1.194l16.02-10.133A0.849,0.849,0,0,1,1294.32,914.263Zm-73-29.16a0.879,0.879,0,0,0-.41,1.154l7.91,17.371a0.844,0.844,0,0,0,1.13.425,0.869,0.869,0,0,0,.41-1.154l-7.9-17.369A0.856,0.856,0,0,0,1221.32,885.1Zm-14.8,6.418a0.882,0.882,0,0,0-.14,1.221l11.64,15.037a0.832,0.832,0,0,0,1.19.146,0.874,0.874,0,0,0,.14-1.222l-11.63-15.036A0.847,0.847,0,0,0,1206.52,891.521ZM1196.9,904.5a0.883,0.883,0,0,0,.18,1.218l15.05,11.448a0.837,0.837,0,0,0,1.19-.175,0.89,0.89,0,0,0-.17-1.218L1198.1,904.32A0.847,0.847,0,0,0,1196.9,904.5Zm-6.72,14.058a0.876,0.876,0,0,0,.41,1.158l16.97,8.173a0.839,0.839,0,0,0,1.13-.417,0.875,0.875,0,0,0-.41-1.157l-16.97-8.172A0.835,0.835,0,0,0,1190.18,918.554Zm50.08-36.331a0.875,0.875,0,0,0-.83.922l0.9,19.346a0.871,0.871,0,0,0,.91.837,0.883,0.883,0,0,0,.84-0.923l-0.9-19.345A0.887,0.887,0,0,0,1240.26,882.223Z" transform="translate(-235 -739.875)"/>
+  <g>
+    <path class="cls-3" d="M1132.73,966.037V767.265s-0.79-12.816-13.71-13.708l-316.847,1.371s-8.391-.934-12.345,1.371c-4.264,2.486-4.115,8.225-4.115,8.225V966.037h-28.8v17.821A16.426,16.426,0,0,0,772,997.566H1149.19s11.96-3.93,13.72-15.079v-16.45h-30.18Z" transform="translate(-235 -739.875)"/>
+    <rect class="cls-4" x="565.812" y="30.125" width="316.808" height="185.094"/>
+    <rect class="cls-1" x="550.688" y="226.187" width="345.252" height="2.782"/>
+    <rect class="cls-1" x="521.906" y="238.5" width="404.624" height="2.75"/>
+    <rect id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-1" x="696.125" y="233" width="56.687" height="2.844"/>
+    <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-2" d="M927.591,967.136l4.89,7.26-1.8,1.275-4.889-7.26Z" transform="translate(-235 -739.875)"/>
+    <path id="Rectangle_4_copy_3" data-name="Rectangle 4 copy 3" class="cls-2" d="M991.026,967.136l-4.889,7.26,1.8,1.275,4.89-7.26Z" transform="translate(-235 -739.875)"/>
+  </g>
+  <g>
+    <rect id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-5" x="1080.84" y="158.156" width="118.28" height="99.25" rx="15" ry="15"/>
+    <rect class="cls-1" x="1082.03" y="199.5" width="115.91" height="2.375"/>
+    <rect id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-4" x="1093.88" y="166.406" width="23.65" height="10.657" rx="4.5" ry="4.5"/>
+    <path class="cls-6" d="M1374.41,922.843a30.141,30.141,0,1,1-30.16,30.142A30.147,30.147,0,0,1,1374.41,922.843Z" transform="translate(-235 -739.875)"/>
+    <path id="Ellipse_3_copy" data-name="Ellipse 3 copy" class="cls-6" d="M1374.41,931.937a21.047,21.047,0,1,1-21.07,21.048A21.055,21.055,0,0,1,1374.41,931.937Z" transform="translate(-235 -739.875)"/>
+    <path class="cls-2" d="M1373.8,940.565c1.82-.219,3.08,2.007.85,2.606-6.13-1-12.73,9.455-7.03,14.283,0.87,1.835-.08,3.111-1.62,2.93-6.1-6.415-4.31-18.184,7.8-19.819" transform="translate(-235 -739.875)"/>
+    <rect id="Rounded_Rectangle_5" data-name="Rounded Rectangle 5" class="cls-4" x="1163.5" y="149.281" width="17.88" height="10.219" rx="3.5" ry="3.5"/>
+  </g>
+  <g>
+    <path id="Rounded_Rectangle_6" data-name="Rounded Rectangle 6" class="cls-2" d="M305.592,851.147L380.315,775.4A1.182,1.182,0,0,1,382,777.06l-74.723,75.747A1.182,1.182,0,1,1,305.592,851.147Z" transform="translate(-235 -739.875)"/>
+    <path id="Rounded_Rectangle_6_copy" data-name="Rounded Rectangle 6 copy" class="cls-2" d="M319.783,858.238l74.722-75.747a1.182,1.182,0,0,1,1.684,1.66L321.467,859.9A1.183,1.183,0,0,1,319.783,858.238Z" transform="translate(-235 -739.875)"/>
+    <path id="Rounded_Rectangle_6_copy_2" data-name="Rounded Rectangle 6 copy 2" class="cls-2" d="M312.026,872.468l73.9,76.548a1.182,1.182,0,0,1-1.7,1.641l-73.9-76.548A1.182,1.182,0,0,1,312.026,872.468Z" transform="translate(-235 -739.875)"/>
+    <path id="Rounded_Rectangle_6_copy_2-2" data-name="Rounded Rectangle 6 copy 2" class="cls-2" d="M304.579,886.469l73.9,76.548a1.182,1.182,0,0,1-1.7,1.642l-73.9-76.549A1.182,1.182,0,0,1,304.579,886.469Z" transform="translate(-235 -739.875)"/>
+    <circle class="cls-4" cx="69.781" cy="132.14" r="21.281"/>
+    <ellipse id="Ellipse_4_copy" data-name="Ellipse 4 copy" class="cls-4" cx="69.766" cy="132.141" rx="9.828" ry="9.828"/>
+    <path class="cls-6" d="M387.767,946.845a52.825,52.825,0,0,1,52.841,52.809H334.926A52.825,52.825,0,0,1,387.767,946.845Z" transform="translate(-235 -739.875)"/>
+    <path class="cls-7" d="M406.63,740.872l30.939,30.922-31.545,31.528L375.085,772.4Z" transform="translate(-235 -739.875)"/>
+    <path id="Ellipse_5_copy" data-name="Ellipse 5 copy" class="cls-7" d="M417.6,782.514a52.861,52.861,0,0,1,74.727.348L417.248,857.2A52.789,52.789,0,0,1,417.6,782.514Z" transform="translate(-235 -739.875)"/>
+    <circle id="Ellipse_5_copy_2" data-name="Ellipse 5 copy 2" class="cls-8" cx="222.562" cy="82.953" r="21.5"/>
+    <rect id="Rounded_Rectangle_7" data-name="Rounded Rectangle 7" class="cls-1" x="255.438" y="86.063" width="9.468" height="3.531" rx="1.5" ry="1.5"/>
+    <rect id="Rounded_Rectangle_7_copy" data-name="Rounded Rectangle 7 copy" class="cls-1" x="225.281" y="113.813" width="3.531" height="9.468" rx="1.5" ry="1.5"/>
+    <path id="Rounded_Rectangle_7_copy_2" data-name="Rounded Rectangle 7 copy 2" class="cls-2" d="M480.135,844.307a1.776,1.776,0,0,1,2.507.105l4,4.35a1.774,1.774,0,0,1-2.611,2.4l-4-4.351A1.771,1.771,0,0,1,480.135,844.307Z" transform="translate(-235 -739.875)"/>
+  </g>
+  <g>
+    <path class="cls-6" d="M536.553,999.66H586.22V908.654l-24.834-55.548-24.833,55.548V999.66Z" transform="translate(-235 -739.875)"/>
+    <rect class="cls-1" x="314.562" y="139.219" width="22.469" height="1.5"/>
+    <path id="Rectangle_9_copy" data-name="Rectangle 9 copy" class="cls-2" d="M537.735,908.654l23.742,7.691v2.66l-23.742-7.691v-2.66Z" transform="translate(-235 -739.875)"/>
+    <path id="Rectangle_9_copy_3" data-name="Rectangle 9 copy 3" class="cls-2" d="M583.929,908.654l-23.742,7.691v2.66l23.742-7.691v-2.66Z" transform="translate(-235 -739.875)"/>
+    <rect id="Rectangle_9_copy_2" data-name="Rectangle 9 copy 2" class="cls-1" x="325.031" y="177.063" width="2.657" height="80.343"/>
+  </g>
+  <g id="Group_14_copy" data-name="Group 14 copy">
+    <path class="cls-2" d="M701.46,897.612a5.222,5.222,0,0,1,5.054,5.743v88.3s-1.083,4.4-3.971,4.666H655.254s-3.52-.9-3.61-4.307v-90.1a4.658,4.658,0,0,1,4.693-4.307H701.46ZM656.7,899.766h45.484s2.166,0.539,2.166,2.513V909.1h-50.9v-7.179S653.63,899.586,656.7,899.766Zm14.981,3.589h14.439a1.257,1.257,0,1,1,0,2.514H671.679A1.257,1.257,0,1,1,671.679,903.355Zm-17.494,7.538h50.524v72.866H654.185V910.893Zm-0.736,74.3v6.821s0.993,2.108,2.527,2.153h46.206a2.409,2.409,0,0,0,2.166-2.512v-6.462h-50.9Zm25.63,2.154a2.154,2.154,0,1,1-2.166,2.154A2.161,2.161,0,0,1,679.079,987.348Z" transform="translate(-235 -739.875)"/>
+    <path class="cls-2" d="M665.17,959.1a3.111,3.111,0,0,0,1.6-1.029,3.974,3.974,0,0,0,.456-1.258,5.064,5.064,0,0,0-.114-1.143,2.213,2.213,0,0,1,2.055-2.4,2.613,2.613,0,0,1,2.055,1.028,5.256,5.256,0,0,1,.913,1.943,2.96,2.96,0,0,1-.913,2.057,7.076,7.076,0,0,1-4.338,1.828,4.572,4.572,0,0,1-1.941-.57S664.532,959.176,665.17,959.1Zm6.278-5.144a3.722,3.722,0,0,0,4.452-.457l6.393-7.085,5.594-6.515a59.867,59.867,0,0,0,4-5.485s0.671-1.229.229-1.6c0,0-.471-0.672-3.654,1.6,0,0-2.111,1.457-4.566,3.542,0,0-7.106,6.172-7.991,7.086,0,0-3.781,3.529-4.338,4.114a5.8,5.8,0,0,0-1.027,2.743A2.634,2.634,0,0,0,671.448,953.957Zm0.8-1.257s-1.127-1.814,1.142-3.543c0,0,5.208-4.914,5.708-5.256,0,0,6.036-5.2,7.42-6.286,0,0,3.339-3,3.881-2.972,0,0,.057.2-0.913,1.258,0,0-3.3,4.2-4.795,5.713,0,0-4.5,5.329-5.593,6.4,0,0-2.74,3.3-3.539,4.115C675.558,952.129,673.8,954.057,672.247,952.7Z" transform="translate(-235 -739.875)"/>
+  </g>
+  <g>
+    <rect id="Rounded_Rectangle_8" data-name="Rounded Rectangle 8" class="cls-9" x="1236.97" y="171.156" width="124.15" height="23.625" rx="5" ry="5"/>
+    <path class="cls-10" d="M1481.42,932.292h105.25l-4.77,65h-95.72Z" transform="translate(-235 -739.875)"/>
+    <image id="Group_22_copy" data-name="Group 22 copy" x="1319" y="79.125" width="32" height="94" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAABeCAYAAABCUhZFAAADx0lEQVRoge2aWahNURjHf9dwkyFjHsyZMqbIGA+mmwcPiChXF8mc6SJlKkrd8mAMqYsiQ6aIByFjwgPKmAe8UK45Y1z06b+1bfeeffbe5xwe1lervdv7W9//d9bZa61v7bXzehWMIYH1Bn4A1+KGqJZEHVgD5AGD/gVAB5+wnd+PE6RKAoCplZznBKAxUAQcVSnStZwBTAIaAPNVGuhaTgBqAIuAy8BjlUvAYt3LOsAEoCFQ4rtWolaYEDVYnHHgCVALaAW817XaaokPQMsowaK2QAHQAtjkE0fnm3SvIJsAxcBniQVto+4tzBZAN/06E3pRwf2XujdUvhkHmKPjuhQ+6wK+GQNoAkwGSoGnKfyeysd8m2YSoFjHjWn4ej7FIX5pA1iXmwecAG6m4X9TvnPUPVNaOrNhkQ90ClA1xL9cR/MbD2xLApAPTFc//wiM1fyfyixBea06Vncn8CUuwBCgq/6C9SG+QZurXjEYOFmZU9gzsAR4G9aMldg21V2SyikVQE9gALBKI1xU+6y6AxQrMsAKBdkbQ9wzq/tJsSIBtAWGAweBZwkArO4BxWobBWCBjhsSiHu2ORAzFKARUAhcBa5nAOC6YhUqdijAaKAOsDID4p6tVMy/sp9gRlQdeKjuk/aUmqbZEF1fz8JXr0qwBUYrpVqeYXHUE1pI47cFW+C2JpBOGnozaTWBuxqiu1TUAgOBzsD2LIijmNulMbAigGU67siCuGelAa3fAJ200NwTkvEktWfSGCTNP+Z5s9VZFPfM05jiAdgqZwZwBHiQA4AH0jLNRgYwU2u6bHS9ymyekp2ZVbS6tZcLd3IIYHnmc2BWNZG0Bq5ozD4EXMyCaBtgnLpgX40Lbwzgm50AzYE+SqXKgP16Ym3weBdDMF8j3yhgItDRd2+3huQe9hfUBY4BzZQDlmoumK1Wuacn15Zl9dIQ7qOU/ILmFW/pflwZdl0t42/Y3OMlpd7xjEqeksl++gXewPEIOA+cAg77st3+wAgde+tamRYpBnIWeBUAre4XDqballqfVlkLtAOGAdPUnBP1LuCqWqW76ln6tRXYp7+uLKy50lmY2Bh+S6VEI5gtOEb6XtNZ7r9LD295SLw/LM4rGvtlS30z5mO9oDoXVdwsyXtCNLXmJwmQBKCqyo9/BZARcwAOwAE4AAfgAByAA3AADsABOAAH4AAcgANwAA7AATgAB+AA/huAOLti5SrfYmr/0rQtm+/acLJ9vChm8PYtse0XbIkBYLtw3w3AtuXa67uvqGbfjNmGV5y6X4F7PwEqpr8UXzPK7QAAAABJRU5ErkJggg=="/>
+    <rect class="cls-9" x="1283.06" y="79.125" width="33.13" height="93.375"/>
+    <rect class="cls-1" x="1284.25" y="95.5" width="11.84" height="2.437"/>
+    <rect id="Rectangle_12_copy" data-name="Rectangle 12 copy" class="cls-1" x="1284.25" y="110.875" width="11.84" height="2.406"/>
+    <rect id="Rectangle_12_copy_2" data-name="Rectangle 12 copy 2" class="cls-1" x="1284.25" y="125.063" width="11.84" height="2.374"/>
+    <rect id="Rectangle_12_copy_3" data-name="Rectangle 12 copy 3" class="cls-1" x="1284.25" y="140.406" width="11.84" height="2.407"/>
+    <rect id="Rectangle_12_copy_4" data-name="Rectangle 12 copy 4" class="cls-1" x="1284.25" y="156.969" width="11.84" height="2.406"/>
+    <path class="cls-11" d="M1512.16,912.383s-2.72-31.5-10.64-41.367c-0.41-.515-8.08.935-9.46,1.182,0,0,8.69-1.282,9.33-1.535,2.71-1.059,9.62-4.791,8.41-15.012,0,0-3.03-18.9-24.84-30.729,0,0-15.82,18.312-15.37,33.094,0,0,1.21,15.208,12.9,15.4,0.41,0.007,9.12-1.187,9.57-1.22,0,0-7.52,1.193-9.46,1.182-1.22,4.936-3.51,22,1.18,39h28.38Z" transform="translate(-235 -739.875)"/>
+    <path class="cls-2" d="M1482.6,898.018l26.02-4.537v2.4l-26.02,4.536v-2.4Z" transform="translate(-235 -739.875)"/>
+  </g>
+  <path id="Rounded_Rectangle_9_copy_6" data-name="Rounded Rectangle 9 copy 6" class="cls-2" d="M420.266,1022.13h19.687a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H420.266a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,420.266,1022.13Zm138.375,0h16.124a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H558.641a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,558.641,1022.13Zm-111.156,0H549.953a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H447.485a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,447.485,1022.13Zm136,0H683.578a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H583.485a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,583.485,1022.13Zm108.781,0h19.687a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H692.266a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,692.266,1022.13Zm138.344,0h16.155a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H830.61a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,830.61,1022.13Zm-111.157,0H821.922a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H719.453a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,719.453,1022.13Zm136,0H955.578a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H855.453a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,855.453,1022.13Zm109.969,0H985.14a0.791,0.791,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H965.422a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,965.422,1022.13Zm138.378,0h16.15a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H1103.8a0.8,0.8,0,0,1-.8-0.8v-0.28A0.794,0.794,0,0,1,1103.8,1022.13Zm-111.159,0H1095.11a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H992.641a0.8,0.8,0,0,1-.8-0.8v-0.28A0.791,0.791,0,0,1,992.641,1022.13Zm136,0h100.09a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H1128.64a0.8,0.8,0,0,1-.8-0.8v-0.28A0.794,0.794,0,0,1,1128.64,1022.13Zm108.78,0h19.69a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8h-19.69a0.8,0.8,0,0,1-.8-0.8v-0.28A0.794,0.794,0,0,1,1237.42,1022.13Zm138.38,0h16.12a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H1375.8a0.8,0.8,0,0,1-.8-0.8v-0.28A0.794,0.794,0,0,1,1375.8,1022.13Zm-111.19,0h102.5a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8h-102.5a0.8,0.8,0,0,1-.8-0.8v-0.28A0.794,0.794,0,0,1,1264.61,1022.13Zm136,0h100.12a0.794,0.794,0,0,1,.8.79v0.28a0.8,0.8,0,0,1-.8.8H1400.61a0.8,0.8,0,0,1-.8-0.8v-0.28A0.794,0.794,0,0,1,1400.61,1022.13Z" transform="translate(-235 -739.875)"/>
+</svg>

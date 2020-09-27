@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16.78px;
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f15332;
+        fill-opacity: 0;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="$" class="cls-1" transform="translate(27.504 41.874) scale(2.476)">$</text>
+  <circle class="cls-2" cx="28" cy="28" r="26.5"/>
+  <path class="cls-3" d="M415.449,1885.26l30.138-38.6,2.365,1.85-30.138,38.6Z" transform="translate(-403.5 -1838.5)"/>
+</svg>

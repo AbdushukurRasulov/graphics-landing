@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408.004" height="246" viewBox="0 0 408.004 246">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fafafa;
+        stroke: #364655;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #364655;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1132.73,966.037V767.265s-0.79-12.816-13.71-13.708l-316.847,1.371s-8.391-.934-12.345,1.371c-4.264,2.486-4.115,8.225-4.115,8.225V966.037h-28.8v17.821A16.426,16.426,0,0,0,772,997.566H1149.19s11.96-3.93,13.72-15.079v-16.45h-30.18Z" transform="translate(-755.906 -752.562)"/>
+  <rect class="cls-2" x="44.906" y="17.438" width="316.808" height="185.094"/>
+  <rect class="cls-3" x="29.782" y="213.5" width="345.252" height="2.782"/>
+  <rect class="cls-3" x="1" y="225.813" width="404.624" height="2.75"/>
+  <rect id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-3" x="175.219" y="220.313" width="56.687" height="2.844"/>
+  <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-4" d="M927.591,967.136l4.89,7.26-1.8,1.275-4.889-7.26Z" transform="translate(-755.906 -752.562)"/>
+  <path id="Rectangle_4_copy_3" data-name="Rectangle 4 copy 3" class="cls-4" d="M991.026,967.136l-4.889,7.26,1.8,1.275,4.89-7.26Z" transform="translate(-755.906 -752.562)"/>
+</svg>
