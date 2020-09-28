@@ -20,9 +20,9 @@ $(document).ready(function(){
   
   if ($(".filter-button").removeClass("active")) {
     $(this).removeClass("active");
-    $('.gallary-scroll').removeClass('justifly-center')
+    $('.gallary-scroll').removeClass('justify-content-center')
 }
   $(this).addClass("active");
-  $('.gallary-scroll').addClass('justifly-center')
+  $('.gallary-scroll').addClass('justify-content-center')
 
 });
