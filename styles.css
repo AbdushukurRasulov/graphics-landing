@@ -598,3 +598,56 @@ html {
   transition: all 250ms ease-out 0s;
   width: 20px;
 }
+
+plan-price{
+  color: #ff7442;
+}
+.plan-price span{
+  color: #7d7d95;
+}
+
+.card{
+  height: 470px;
+}
+
+
+.card ul{
+  list-style: none;
+}
+
+.card .icon-check,
+.card .pro{
+  color: #ff7442;
+}
+
+.card .start-trail-btn{
+  color: #fff;
+  background-image: linear-gradient( #f6783e 0%, #ff8e4c 95%);
+  width: 60%;
+  height: 55px;
+  text-align: center;
+  margin: auto;
+  border-radius: 50px;
+}
+
+
+.card:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  z-index: 100;
+  color: #fff;
+  background-image: linear-gradient(90deg, #f6783e 0%, #ff8e4c 95%);
+}
+
+.card:hover .plan-price,.card:hover .plan-price span{
+  color: white;
+}
+
+.card:hover .icon-check{
+  color: white;
+}
+
+.card:hover .start-trail-btn{
+  border: 1px solid white;
+  color: white;
+}
