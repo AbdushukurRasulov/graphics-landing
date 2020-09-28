@@ -14,6 +14,14 @@
     href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Roboto:ital,wght@0,300;0,500;0,700;0,900;1,100;1,300;1,400;1,500&display=swap"
     rel="stylesheet">
 
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
   <title>Graphic Landing Page</title>
 </head>
 
@@ -196,44 +204,160 @@
 
 
   <!-- how it works starts here -->
-
-  <section class="test">
-    <div class="checkit container">
-      <div class="timeline-block timeline-block-right">
-        <div class="marker"></div>
-        <div class="timeline-content">
-          <h3>Step 1</h3>
-          <span> Tell us what you need</span>
-          <p>Submit your design request and we 'll start working on it to turn your vision into reality.</p>
+  <section class="how-it-works">
+    <span class="top-shape aos-init" data-aos="fade-right" data-aos-delay="50" data-aos-duration="1000"></span>
+    <span class="bottom-shape aos-init" data-aos="fade-left" data-aos-delay="50" data-aos-duration="1000"></span>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>HOW IT WORKS</h2>
+          <div class="title-border">
+            <span class="aos-init" data-aos="fade-right" data-aos-delay="50" data-aos-duration="1000"></span>
+          </div>
         </div>
       </div>
-
-      <div class="timeline-block timeline-block-left">
-        <div class="marker"></div>
-        <div class="timeline-content">
-          <h3>Step 2</h3>
-          <span>Your design is delivered</span>
-          <p>Get your design request delivered within 24 hours for a standard design request.</p>
+      <div class="detail d-flex flex-wrap">
+        <div class="center-element aos-init" data-aos="fade-up" data-aos-delay="50" data-aos-duration="1000">
+          <div class="animated-circles d-flex justify-content-center align-items-center aos-init" data-aos="zoom-in"
+            data-aos-delay="100" data-aos-duration="1000">
+            <span class="inner-circle"></span>
+          </div>
+          <div class="animated-circles d-flex justify-content-center align-items-center aos-init" data-aos="zoom-in"
+            data-aos-delay="100" data-aos-duration="1000">
+            <span class="inner-circle"></span>
+          </div>
+          <div class="animated-circles d-flex justify-content-center align-items-center aos-init" data-aos="zoom-in"
+            data-aos-delay="100" data-aos-duration="1000">
+            <span class="inner-circle"></span>
+          </div>
+        </div>
+        <div class="step-row-outer d-flex flex-wrap w-100">
+          <div class="steps-row d-flex flex-wrap justify-content-end w-100">
+            <div class="inner">
+              <div class="title">
+                <h3>
+                  <span>Step 1</span>
+                  Tell us what you need
+                </h3>
+                <span class="animated-border aos-init" data-aos="fade-right" data-aos-delay="50"
+                  data-aos-duration="1000"></span>
+              </div>
+              <p>Submit your design request and we 'll start working on it to turn your vision into reality. </p>
+            </div>
+          </div>
+          <div class="steps-row d-flex flex-wrap justify-content-start w-100">
+            <div class="inner">
+              <div class="title">
+                <h3>
+                  <span>Step 2</span>
+                  Your design is delivered
+                </h3>
+                <span class="animated-border aos-init" data-aos="fade-right" data-aos-delay="50"
+                  data-aos-duration="1000"></span>
+              </div>
+              <p>Get your design request delivered within 24 hours for a standard design request.</p>
+            </div>
+          </div>
+          <div class="steps-row d-flex flex-wrap justify-content-end w-100">
+            <div class="inner">
+              <div class="title">
+                <h3>
+                  <span>Step 3</span>
+                  Unlimited revisions until it's perfect
+                </h3>
+                <span class="animated-border aos-init" data-aos="fade-right" data-aos-delay="50"
+                  data-aos-duration="1000"></span>
+              </div>
+              <p>Check it out and let us know what you would like to change. We 'll make as many revisions as you like
+                until the design hits the spot. </p>
+            </div>
+          </div>
         </div>
       </div>
-
-      <div class="timeline-block timeline-block-right">
-        <div class="marker"></div>
-        <div class="timeline-content">
-          <h3>Step 3</h3>
-          <span>Unlimited revisions until it's perfect</span>
-          <p>Check it out and let us know what you would like to change. We 'll make as many revisions as you like until
-            the design hits the spot.</p>
-        </div>
-      </div>
-
     </div>
   </section>
 
-  <!-- <section class="our-work">
-    <h1>CHECK OUT OUR WORK</h1>
-  </section>
-  <section class="design-needs">
+
+  <div class="our-work-row" id="portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title">
+            <h2>Check out our work</h2>
+            <span class="border-line aos-init" data-aos="fade-right" data-aos-delay="50"
+              data-aos-duration="1000"></span>
+            <span class="tagline d-flex justify-content-center w-100 text-center">Need some inspiration?<br />Check out
+              below some of the work we are really proud of!</span>
+          </div>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center align-items-center">
+        <button class="btn filter-button" data-filter="all">All</button>
+        <button class="btn filter-button" data-filter="ui/ux">UI/UX</button>
+        <button class="btn filter-button" data-filter="graphic-design">Graphic Design</button>
+        <button class="btn filter-button" data-filter="print-media">Print Media</button>
+        <button class="btn filter-button" data-filter="ad-banner">Ad Banner</button>
+        <button class="btn filter-button" data-filter="keynote">Keynote/PPT</button>
+      </div>
+      <div class="row gallary-scroll d-flex ">
+        <div class="gallery_product filter center ui/ux">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center ui/ux">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center graphic-design">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center graphic-design">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center print-media">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center print-media">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center ad-banner">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center ad-banner">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center ad-banner">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center ad-banner">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+        <div class="gallery_product   filter center keynote">
+          <img src="./assets/10-3.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--  <section class="design-needs">
     <h1>WHAT DESIGN DO YOU NEED</h1>
   </section>
   <section class="testimonials">
@@ -251,6 +375,9 @@
   <section class="help">
     <h1>NEED SOME HELP? GET IN TOUCH</h1>
   </section> -->
+
+
+  <script src="./app.js"></script>
 </body>
 
 </html>
