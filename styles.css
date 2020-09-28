@@ -474,7 +474,6 @@ html {
 .task-list ul li {
   list-style-type: none;
 }
-
 .design-needs .task-list ul li::before {
   content: url(./assets/checkbox.svg);
   display: inline-block;
@@ -498,7 +497,11 @@ html {
   font-family: "Roboto";
 }
 
+
+
+
 /* Testimonials */
+
 
 .shadow-effect {
   background: #fff;
@@ -507,6 +510,22 @@ html {
   text-align: center;
   border: 1px solid #ECECEC;
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.10), 0 15px 12px rgba(0, 0, 0, 0.02);
+}
+
+
+
+
+[class^="number-slide"],
+[class*=" number-slide"] {
+  background: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: #fff;
+  font-weight: 500;
+  height: 300px;
+  max-height: 100vh;
 }
 
 #customers-testimonials .shadow-effect p {
