@@ -21,37 +21,9 @@ $(document).ready(function(){
     $('.gallary-scroll').addClass('justify-content-center')
   }
   $(this).addClass("active");
-  console.log(this)
   $('.gallary-scroll').removeClass('justify-content-center')
 
 });
-
-jQuery(document).ready(function($) {
-  "use strict";
-  //  TESTIMONIALS CAROUSEL HOOK
-  $('#customers-testimonials').owlCarousel({
-      loop: true,
-      center: true,
-      items: 3,
-      margin: 0,
-      autoplay: true,
-      dots:true,
-      autoplayTimeout: 8500,
-      smartSpeed: 450,
-      responsive: {
-        0: {
-          items: 1
-        },
-          768: {
-              items: 2
-          },
-          1170: {
-              items: 3
-          }
-      }
-  });
-});
-
 
 var slider = new KeenSlider("#my-keen-slider", {
     slidesPerView: 2,
@@ -60,3 +32,23 @@ var slider = new KeenSlider("#my-keen-slider", {
     centered: true,
     loop: false
 });
+
+
+const accordion = document.querySelector('.faq-content');
+const items     = accordion.querySelectorAll('li');
+const questions = accordion.querySelectorAll('.faq-question');
+
+//Lets figure out what item to click
+function toggleAccordion() {
+  const thisItem = this.parentNode;
+  
+    items.forEach(item => {
+      if (thisItem == item) {
+        thisItem.classList.toggle('open');
+        return;
+    }
+    item.classList.remove('open');
+  });
+}
+
+questions.forEach(question => question.addEventListener('click', toggleAccordion));
