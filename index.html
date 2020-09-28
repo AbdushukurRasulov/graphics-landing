@@ -10,14 +10,17 @@
   <link rel="stylesheet" href="./styles.css">
 
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Roboto:ital,wght@0,300;0,500;0,700;0,900;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/keen-slider@5.0.2/keen-slider.min.css"/>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Roboto:ital,wght@0,300;0,500;0,700;0,900;1,100;1,300;1,400;1,500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/keen-slider@5.0.2/keen-slider.min.css" />
 
   <!-- jQuery library -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <!-- Latest compiled JavaScript -->
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
   <!-- Font awesome -->
   <link rel="stylesheet" href="fontawesome-free/css/all.min.css">
 
@@ -277,7 +280,7 @@
   </section>
 
 
-  <div class="our-work-row" id="portfolio">
+  <section class="our-work-row" id="portfolio">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -361,7 +364,8 @@
         </div>
       </div>
     </div>
-  </div>
+  </section>
+
   <section class="design-needs pt-5 container">
     <h1 class="text-center">WHAT DESIGN DO YOU NEED</h1>
     <div class="task-list d-flex flex-column flex-sm-row">
@@ -424,6 +428,7 @@
       </div>
     </div>
   </section>
+
   <section class="testimonials container pt-5">
     <h1 class="text-center">LET'S HEAR IT FROM OTHER</h1>
     <div>
@@ -538,70 +543,224 @@
       </div>
     </div>
   </section>
-  <section class="faq">
-    <div class="container">
-      <h1>FAQ</h1>
-      <div id="accordion">
-        <div class="card">
-          <div class="card-header" id="headingOne">
-            <h5 class="mb-0">
-              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
-                aria-controls="collapseOne">
-                What kind of designs can Graphics Ready offer?
-              </button>
-            </h5>
-          </div>
 
-          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-            <div class="card-body">
-              Our team consists of highly qualified and knowledgeable industry professionals, covering a wide array of
-              design types.
-              You can check out our services <a href="">here</a> .
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-header" id="headingTwo">
-            <h5 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-                aria-expanded="false" aria-controls="collapseTwo">
-                How does the free trial work?
-              </button>
-            </h5>
-          </div>
-          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-            <div class="card-body">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima sint quaerat nulla voluptate dolore amet
-              similique placeat, eaque autem, unde non harum vel error alias, eveniet odio. Dolores, autem culpa.
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-header" id="headingThree">
-            <h5 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
-                aria-expanded="false" aria-controls="collapseThree">
-                How does the free trial work?
-              </button>
-            </h5>
-          </div>
-          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-            <div class="card-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iste eaque odio
-              incidunt earum sapiente maxime minus consectetur eum, explicabo et, assumenda voluptates quibusdam vero
-              minima, optio officia quasi. Veritatis!
-            </div>
+  <section class="faq mt-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>FAQ</h2>
+          <div class="title-border">
+            <span class="aos-init" data-aos="fade-right" data-aos-delay="50" data-aos-duration="1000"></span>
           </div>
         </div>
       </div>
+      <div class="faq-content">
+        <ul class="list-unstyled">
+          <li>
+            <div class="faq-question d-flex justify-content-between align-items-center">
+              <h2> What kind of designs can Graphics Ready offer?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Our team consists of highly qualified and knowledgeable industry professionals, covering a wide array
+                of design types. You can check out our services here .</p>
+            </div>
+          </li>
+
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2> How does the free trial work?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima sint quaerat nulla voluptate dolore amet
+                similique placeat, eaque autem, unde non harum vel error alias, eveniet odio. Dolores, autem culpa.</p>
+            </div>
+          </li>
+
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>What do we mean by 'unlimited revisions'?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus id tenetur et rem. Ut esse vitae animi
+                distinctio iste nesciunt officia facere beatae doloribus. Facilis voluptatibus et odio quidem ipsa.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>How long do requests take to complete?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus id tenetur et rem. Ut esse vitae animi
+                distinctio iste nesciunt officia facere beatae doloribus. Facilis voluptatibus et odio quidem ipsa.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>What are Graphics Ready business hours?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Our team works from 8 am to 4 pm, Monday to Friday. We are closed on the weekends but feel free to get
+                in touch
+                on our off-hours at xxxx@xxx.com. You can also reach us 24/5 on live chat!</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>How much does tthe service cost?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <h4>We offer three different plans to choose from:</h4>
+              <ul class="list">
+                <li> BASIC $29: Best suitable for ad-hoc requests. You can place one order with unlimited revisions.
+                  Turnaround time is 48 hrs. </li>
+                <li>
+                  PREMIUM $59: Best suitable for light users. You can place up to 3 design requests per week with
+                  unlimited revisions. Turnaround time is 48 hrs. </li>
+                <li>
+                  PREMIUM PRO $199: Best suitable for heavy users. You can place unlimited design requests which
+                  will be fulfilled by a dedicated designer. Turnaround time is 24 hrs. </li>
+              </ul>
+              <p>For all of our plans, there are no hidden costs, no additional fees, and no contract agreements.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>What do I do if I have an urgent request?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>How many requests can I submit at a time?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2> Who works on my requests?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>What details do you require with my request?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>How do I submit and manage my request?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2> How many brands can I submit requests for?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="faq-question  d-flex justify-content-between align-items-center">
+              <h2>How do I get revisions done?</h2>
+              <span>+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur expedita tenetur dignissimos a
+                eos odit! Necessitatibus magni facere reiciendis, porro tenetur ducimus quaerat nam libero nesciunt, et
+                dolor, placeat dolore.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+
     </div>
   </section>
-  <section class="partners container my-5">
-    <h1 class="text-uppercase text-center text-body">Brands that trust us</h1>
-    <p class="text-center">Our work spans from large digital media agencies to individual ad-hoc design requests</p>
-    .col
+  <section class="partners">
+    <h1>BRANDS THAT TRUST US</h1>
   </section>
   <section class="help">
-    <h1 class="text-uppercase text-center text-body">Need some help? Get in touch</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Need some help? Get in touch</h2>
+          <div class="title-border">
+            <span class="aos-init" data-aos="fade-right" data-aos-delay="50" data-aos-duration="1000"></span>
+          </div>
+        </div>
+      </div>
+      <div class="help-content mb-4">
+        <div class="register text-center">
+          <p>Whether you need some clarifications, you want to discuss your next design project,
+            or you are running a business and want to place a custom bulk order - we are here to help!</p>
+          <div class="register-input">
+            <div class="input-group mb-3">
+              <input type="text" class="form-control" placeholder="Enter your email">
+              <button class="btn" type="button">Submit</button>
+            </div>
+            <p>Register in 2 minutes. Cancel anytime</p>
+          </div>
+        </div>
+      </div>
+      <div class="help-curve text-center">
+        <div class="or">or</div>
+        <div class="chat-now">
+          <img class="mb-2" src="./assets/chat-now.png" alt="">
+          <img class="curve-arrow" src="./assets/curve-arrow.svg" alt="">
+        </div>
+        <div class="footer">
+          <div class="footer-logo">
+            <img src="./assets/Logo.png" alt="">
+          </div>
+          <ul class="socials d-flex justify-content-center align-items-center">
+            <li><a href="#"><img src="./assets/socials/fb.png" alt=""></a></li>
+            <li><a href="#"><img src="./assets/socials/twitter.png" alt=""></a></li>
+            <li><a href="#"><img src="./assets/socials/insta.png" alt=""></a></li>
+            <li><a href="#"><img src="./assets/socials/g+.png" alt=""></a></li>
+            <li><a href="#"><img src="./assets/socials/youtube.png" alt=""></a></li>
+            <li><a href="#"><img src="./assets/socials/linkedin.png" alt=""></a></li>
+          </ul>
+          <p>GraphicsREADY 2020 Rights Reserved</p> dd
+        </div>
+      </div>
+    </div>
+    <div class="bg-curve"></div>
   </section>
 
 

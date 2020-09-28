@@ -26,44 +26,31 @@ $(document).ready(function(){
 
 });
 
-jQuery(document).ready(function($) {
-  "use strict";
-  //  TESTIMONIALS CAROUSEL HOOK
-  $('#customers-testimonials').owlCarousel({
-      loop: true,
-      center: true,
-      items: 3,
-      margin: 0,
-      autoplay: true,
-      dots:true,
-      autoplayTimeout: 8500,
-      smartSpeed: 450,
-      responsive: {
-        0: {
-          items: 1
-        },
-          768: {
-              items: 2
-          },
-          1170: {
-              items: 3
-          }
-      }
-  });
-});
-
-
-class KeenSlider {
-    constructor(s, param2) {
-        
-    }
-
-}
-
-let slider = new KeenSlider("#my-keen-slider", {
+var slider = new KeenSlider("#my-keen-slider", {
     slidesPerView: 2,
     mode: "free-snap",
     spacing: 15,
     centered: true,
     loop: false
 });
+
+
+
+const accordion = document.querySelector('.faq-content');
+const items  = accordion.querySelectorAll('li');
+const questions = accordion.querySelectorAll('.faq-question');
+
+//Lets figure out what item to click
+function toggleAccordion() {
+  const thisItem = this.parentNode;
+
+    items.forEach(item => {
+      if (thisItem == item) {
+        thisItem.classList.toggle('open');
+        return;
+    }
+    item.classList.remove('open');
+  });
+}
+
+questions.forEach(question => question.addEventListener('click', toggleAccordion));
