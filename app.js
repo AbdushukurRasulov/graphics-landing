@@ -34,8 +34,9 @@ var slider = new KeenSlider("#my-keen-slider", {
 });
 
 
+
 const accordion = document.querySelector('.faq-content');
-const items     = accordion.querySelectorAll('li');
+const items  = accordion.querySelectorAll('li');
 const questions = accordion.querySelectorAll('.faq-question');
 
 //Lets figure out what item to click

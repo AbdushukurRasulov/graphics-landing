@@ -498,10 +498,30 @@ html {
   font-family: "Roboto";
 }
 
-
-
-
 /* FAQ */
+
+.faq h2 {
+  color: #121c26;
+  font-size: 50px;
+  line-height: 38px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.faq .title-border {
+  position: relative;
+  width: 70px;
+  margin: 0 auto 30px auto;
+}
+
+.faq .title-border span {
+  display: inline-block;
+  width: 100%;
+  height: 6px;
+  background-color: #ff7442;
+  border-radius: 3px;
+}
+
 .faq li {
   border-bottom: 1px dashed #7d7d95;
 }
@@ -520,21 +540,10 @@ html {
   font-weight: 700;
 }
 
-.faq-question .glyphicon {
-  position: absolute;
-  right: 20px;
-  top: 0;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  color: #000;
-  transition: 2s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
-}
-
 .faq-answer {
   max-height: 0;
   overflow: hidden;
-  transition: .8s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
+  /* transition: .8s cubic-bezier(0.175, 0.885, 0.32, 1.275) all; */
 }
 
 .faq-answer p {
@@ -546,5 +555,152 @@ html {
 }
 
 .faq-content li.open .faq-answer {
-  max-height: 100%;
+  max-height: auto;
+  max-height: 600px;
+  transition: .3s ease-in;
+}
+
+
+/* NEED HELP */
+
+.help {
+  position: relative;
+}
+
+.register-input {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.register p {
+  color: #7d7d95;
+}
+
+.register-input .input-group {
+  width: 350px;
+}
+
+.register-input input {
+  border-radius: 30px;
+  border: 2px solid #ff7442;
+  height: 45px;
+  font-size: 15px;
+  padding: 18px;
+  outline: none;
+}
+
+.register-input input:focus {
+  box-shadow: none;
+  border: 2px solid #ff7442;
+}
+
+.register-input input::placeholder {
+  color: #40464b;
+  opacity: .3;
+}
+
+.register-input button {
+  position: absolute;
+  top: 0;
+  right: -30px;
+  height: 100%;
+  border-radius: 30px;
+  padding: 10px 25px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 0;
+  letter-spacing: 1px;
+  background-image: -webkit-linear-gradient(95deg, rgb(239, 80, 48) 0%, rgb(255, 116, 66) 97%);
+  background-image: -ms-linear-gradient(95deg, rgb(239, 80, 48) 0%, rgb(255, 116, 66) 97%);
+  box-shadow: 0px 13px 37.2px 2.8px rgba(239, 80, 48, 0.36);
+  z-index: 10;
+}
+
+.register-input p {
+  color: #40464b;
+  margin: 0;
+}
+
+.help-curve {
+  position: relative;
+}
+
+.help h2 {
+  color: #121c26;
+  font-size: 50px;
+  line-height: 38px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.help-curve .or {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  width: 35px;
+  height: 35px;
+  background: #ff7442;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 50%;
+  font-weight: 500;
+}
+
+.chat-now {
+  width: 160px;
+  margin-top: 4rem;
+  display: inline-block;
+  margin-bottom: 1.5rem;
+}
+
+.chat-now img {
+  width: 100%;
+}
+
+.chat-now .curve-arrow {
+  width: 40px;
+  margin-right: 30px;
+}
+
+.footer-logo img {
+  width: 200px;
+}
+
+/* Socials */
+.socials {
+  margin-top: 1rem;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.socials li {
+  list-style: none;
+}
+
+.socials img {
+  width: 14px;
+  margin-right: 1rem;
+}
+
+.footer p {
+  color: #40464b;
+  font-size: 12px;
+}
+
+.bg-curve {
+  content: '';
+  background-image: url('/assets/curve.svg');
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 35vh;
+  z-index: -10;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
 }
