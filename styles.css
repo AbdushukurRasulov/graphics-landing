@@ -456,3 +456,37 @@ html {
   background-image: linear-gradient(90deg, rgba(239, 80, 48, 1) 0%, rgba(255, 116, 66, 1) 97%);
   background-image: conic-gradient(rgba(239, 80, 48, 1) 0%, rgba(255, 116, 66, 1) 97%);
 } */
+
+/*Design needs*/
+.design-needs > h1 {
+  font-size: 50px;
+  color: #121c26;
+  font-weight: 700;
+  font-family: "Roboto";
+}
+
+.task-list ul li {
+  list-style-type: none;
+}
+.design-needs .task-list ul li::before {
+  content: url(./assets/checkbox.svg);
+  display: inline-block;
+  margin-left: -1.3em;
+  width: 32px;
+  position: relative;
+  top: 12px;
+  right: 20px;
+}
+
+.task-list {
+  gap: 20px;
+  padding-top: 80px;
+}
+
+.task-list li {
+  font-size: 24px;
+  line-height: 60px;
+  color: #7d7d95;
+  font-weight: 400;
+  font-family: "Roboto";
+}
