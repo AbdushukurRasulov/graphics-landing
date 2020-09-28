@@ -599,28 +599,27 @@ html {
   width: 20px;
 }
 
-plan-price{
+.plan-price{
   color: #ff7442;
 }
 .plan-price span{
   color: #7d7d95;
 }
 
-.card{
+.plan-card{
   height: 470px;
 }
 
 
-.card ul{
+.plan-card ul{
   list-style: none;
 }
 
-.card .icon-check,
-.card .pro{
+.plan-card .icon-check,
+.plan-card .pro{
   color: #ff7442;
 }
-
-.card .start-trail-btn{
+.plan-card .start-trail-btn{
   color: #fff;
   background-image: linear-gradient( #f6783e 0%, #ff8e4c 95%);
   width: 60%;
@@ -631,7 +630,7 @@ plan-price{
 }
 
 
-.card:hover {
+.plan-card:hover {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
   z-index: 100;
@@ -639,15 +638,33 @@ plan-price{
   background-image: linear-gradient(90deg, #f6783e 0%, #ff8e4c 95%);
 }
 
-.card:hover .plan-price,.card:hover .plan-price span{
+.plan-card:hover .plan-price,.plan-card:hover .plan-price span{
   color: white;
 }
 
-.card:hover .icon-check{
+.plan-card:hover .icon-check{
   color: white;
 }
 
-.card:hover .start-trail-btn{
+.plan-card:hover .start-trail-btn{
   border: 1px solid white;
   color: white;
 }
+
+.modal input.form-control{
+  border-radius: 25px;
+  font-size: 14px;
+}
+
+.modal textarea.form-control{
+  border-radius: 15px;
+}
+
+.modal .btn-submit{
+  background-image: linear-gradient( #f6783e 0%, #ff8e4c 95%);
+  width: 200px;
+  font-size: 25px;
+  border-radius: 25px;
+  color: white;
+}
+

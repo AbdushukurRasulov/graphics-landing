@@ -53,7 +53,14 @@ jQuery(document).ready(function($) {
 });
 
 
-var slider = new KeenSlider("#my-keen-slider", {
+class KeenSlider {
+    constructor(s, param2) {
+        
+    }
+
+}
+
+let slider = new KeenSlider("#my-keen-slider", {
     slidesPerView: 2,
     mode: "free-snap",
     spacing: 15,
