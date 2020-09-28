@@ -42,12 +42,21 @@ jQuery(document).ready(function($) {
         0: {
           items: 1
         },
-        768: {
-          items: 2
-        },
-        1170: {
-          items: 3
-        }
+          768: {
+              items: 2
+          },
+          1170: {
+              items: 3
+          }
       }
   });
+});
+
+
+var slider = new KeenSlider("#my-keen-slider", {
+    slidesPerView: 2,
+    mode: "free-snap",
+    spacing: 15,
+    centered: true,
+    loop: false
 });
