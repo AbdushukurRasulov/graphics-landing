@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a95261c9-3b36-4f1f-9834-46ebc5179627" name="Default Changelist" comment="plan">
-      <change beforePath="$PROJECT_DIR$/.idea/graphics-landing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/graphics-landing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="a95261c9-3b36-4f1f-9834-46ebc5179627" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601278715708</updated>
-      <workItem from="1601278716791" duration="12532000" />
+      <workItem from="1601278716791" duration="12878000" />
     </task>
     <task id="LOCAL-00001" summary="plan">
       <created>1601287330573</created>
@@ -61,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601287382971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="popup">
+      <created>1601304188933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601304188933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,25 +70,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="plan" />
-    <option name="LAST_COMMIT_MESSAGE" value="plan" />
+    <MESSAGE value="popup" />
+    <option name="LAST_COMMIT_MESSAGE" value="popup" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="32" key="CommitChangelistDialog2" timestamp="1601288095849">
+    <state x="453" y="32" key="CommitChangelistDialog2" timestamp="1601304188247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="453" y="32" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601288095849" />
+    <state x="453" y="32" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304188247" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1601278755189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601278755189" />
-    <state x="184" y="86" key="MergeDialog" timestamp="1601287649267">
+    <state x="184" y="86" key="MergeDialog" timestamp="1601304466408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601287649267" />
-    <state x="508" y="220" key="MultipleFileMergeDialog" timestamp="1601287649272">
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304466408" />
+    <state x="508" y="220" key="MultipleFileMergeDialog" timestamp="1601304466414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="508" y="220" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601287649272" />
+    <state x="508" y="220" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304466414" />
     <state width="623" height="498" key="SwitcherDM" timestamp="1601292353817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -96,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601287340196" />
-    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287385983">
+    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601304193960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601287385983" />
+    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304193960" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1601284589750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
