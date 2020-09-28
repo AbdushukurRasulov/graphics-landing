@@ -10,8 +10,6 @@ $(document).ready(function(){
       }
       else
       {
-//            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
-//            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
           $(".filter").not('.'+value).hide('3000');
           $('.filter').filter('.'+value).show('3000');
           
@@ -20,9 +18,36 @@ $(document).ready(function(){
   
   if ($(".filter-button").removeClass("active")) {
     $(this).removeClass("active");
-    $('.gallary-scroll').removeClass('justify-content-center')
-}
+    $('.gallary-scroll').addClass('justify-content-center')
+  }
   $(this).addClass("active");
-  $('.gallary-scroll').addClass('justify-content-center')
+  console.log(this)
+  $('.gallary-scroll').removeClass('justify-content-center')
 
+});
+
+jQuery(document).ready(function($) {
+  "use strict";
+  //  TESTIMONIALS CAROUSEL HOOK
+  $('#customers-testimonials').owlCarousel({
+      loop: true,
+      center: true,
+      items: 3,
+      margin: 0,
+      autoplay: true,
+      dots:true,
+      autoplayTimeout: 8500,
+      smartSpeed: 450,
+      responsive: {
+        0: {
+          items: 1
+        },
+        768: {
+          items: 2
+        },
+        1170: {
+          items: 3
+        }
+      }
+  });
 });
