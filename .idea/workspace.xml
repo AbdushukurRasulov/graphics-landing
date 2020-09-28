@@ -1,148 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e8eac33-ad5c-4672-8dcd-e274767200a1" name="Default Changelist" comment="" />
+    <list default="true" id="a95261c9-3b36-4f1f-9834-46ebc5179627" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="zohidjon" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1i81Ofyztt4ErMhIQi0vXjBdhkj" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1i8ACCklDGmAYC8FspoSq3VnNXv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="C:\Users\Zohidjon Toshpulatov\Desktop\graphics-landing" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e8eac33-ad5c-4672-8dcd-e274767200a1" name="Default Changelist" comment="" />
-      <created>1601274374190</created>
+      <changelist id="a95261c9-3b36-4f1f-9834-46ebc5179627" name="Default Changelist" comment="" />
+      <created>1601278715708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601274374190</updated>
+      <updated>1601278715708</updated>
+      <workItem from="1601278716791" duration="12878000" />
     </task>
-    <task id="LOCAL-00001" summary="changes">
-      <created>1601278312785</created>
+    <task id="LOCAL-00001" summary="plan">
+      <created>1601287330573</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1601278312785</updated>
+      <updated>1601287330573</updated>
     </task>
-    <task id="LOCAL-00002" summary="Merge branch 'dev'&#10;&#10;# Conflicts:&#10;#&#9;index.html">
-      <created>1601278609714</created>
+    <task id="LOCAL-00002" summary="plan">
+      <created>1601287382971</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1601278609714</updated>
+      <updated>1601287382971</updated>
     </task>
-    <task id="LOCAL-00003" summary="changes">
-      <created>1601279480526</created>
+    <task id="LOCAL-00003" summary="popup">
+      <created>1601304188933</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1601279480526</updated>
+      <updated>1601304188933</updated>
     </task>
-    <task id="LOCAL-00004" summary="updates">
-      <created>1601279694326</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601279694326</updated>
-    </task>
-    <task id="LOCAL-00005" summary="slider added">
-      <created>1601283716853</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1601283716853</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Merge branch 'dev'&#10;&#10;# Conflicts:&#10;#&#9;index.html" />
-    <MESSAGE value="changes" />
-    <MESSAGE value="updates" />
-    <MESSAGE value="slider added" />
-    <option name="LAST_COMMIT_MESSAGE" value="slider added" />
+    <MESSAGE value="plan" />
+    <MESSAGE value="popup" />
+    <option name="LAST_COMMIT_MESSAGE" value="popup" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601279687107">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="453" y="32" key="CommitChangelistDialog2" timestamp="1601304188247">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601279687107" />
-    <state x="473" y="135" key="CommitChangelistDialog2" timestamp="1601283716760">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="453" y="32" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304188247" />
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1601278755189">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="473" y="125" key="CommitChangelistDialog2/-66.-1057.1920.1057/0.0.1792.1040@0.0.1792.1040" timestamp="1601279480428" />
-    <state x="473" y="135" key="CommitChangelistDialog2/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601283716760" />
-    <state x="180" y="101" key="MergeDialog" timestamp="1601283089789">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601278755189" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1601304466408">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="180" y="101" key="MergeDialog/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601283089789" />
-    <state x="534" y="328" key="MultipleFileMergeDialog" timestamp="1601279542858">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304466408" />
+    <state x="508" y="220" key="MultipleFileMergeDialog" timestamp="1601304466414">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="534" y="328" key="MultipleFileMergeDialog/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601279542858" />
-    <state width="686" height="445" key="SwitcherDM" timestamp="1601277163296">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="508" y="220" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304466414" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1601292353817">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="686" height="445" key="SwitcherDM/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601277163296" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1601304070572">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601292353817" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601287340196">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601283728146" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601304070572" />
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601304596012">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601287340196" />
+    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601304193960">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-66.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1601283721405" />
-    <state x="694" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601304596012" />
+    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601304193960" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1601284589750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601284589750" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1601292839223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601292839223" />
   </component>
 </project>

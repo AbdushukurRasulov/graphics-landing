@@ -704,3 +704,73 @@ html {
   background-size: cover;
   background-position: left top;
 }
+
+.plan-price{
+  color: #ff7442;
+}
+.plan-price span{
+  color: #7d7d95;
+}
+
+.plan-card{
+  height: 470px;
+}
+
+
+.plan-card ul{
+  list-style: none;
+}
+
+.plan-card .icon-check,
+.plan-card .pro{
+  color: #ff7442;
+}
+.plan-card .start-trail-btn{
+  color: #fff;
+  background-image: linear-gradient( #f6783e 0%, #ff8e4c 95%);
+  width: 60%;
+  height: 55px;
+  text-align: center;
+  margin: auto;
+  border-radius: 50px;
+}
+
+
+.plan-card:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  z-index: 100;
+  color: #fff;
+  background-image: linear-gradient(90deg, #f6783e 0%, #ff8e4c 95%);
+}
+
+.plan-card:hover .plan-price,.plan-card:hover .plan-price span{
+  color: white;
+}
+
+.plan-card:hover .icon-check{
+  color: white;
+}
+
+.plan-card:hover .start-trail-btn{
+  border: 1px solid white;
+  color: white;
+}
+
+.modal input.form-control{
+  border-radius: 25px;
+  font-size: 14px;
+}
+
+.modal textarea.form-control{
+  border-radius: 15px;
+}
+
+.modal .btn-submit{
+  background-image: linear-gradient( #f6783e 0%, #ff8e4c 95%);
+  width: 200px;
+  font-size: 25px;
+  border-radius: 25px;
+  color: white;
+}
+

@@ -21,6 +21,7 @@ $(document).ready(function(){
     $('.gallary-scroll').addClass('justify-content-center')
   }
   $(this).addClass("active");
+  console.log(this)
   $('.gallary-scroll').removeClass('justify-content-center')
 
 });
@@ -42,7 +43,7 @@ const questions = accordion.querySelectorAll('.faq-question');
 //Lets figure out what item to click
 function toggleAccordion() {
   const thisItem = this.parentNode;
-  
+
     items.forEach(item => {
       if (thisItem == item) {
         thisItem.classList.toggle('open');
